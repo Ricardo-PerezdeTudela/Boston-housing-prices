@@ -1,0 +1,17 @@
+In this project the Boston housing dataset is employed 
+to explore linear one-feature and multiple regression techniques
+
+Linear regression:
+
+- Exploratory data analysis (EDA): pairplot, correlation heatmap
+- Feature selection: based on higher correlation
+- Linear regression: spotting of outliers
+- Robust regression: RANSAC
+- Performance evaluation of regression: residual analysis, MSE, R^2
+
+Multiple regression:
+
+- Multiple regression using the statsmodel package
+- Detecting collinearity between predictors (features)
+- Feature importance
+- Feature standardization
